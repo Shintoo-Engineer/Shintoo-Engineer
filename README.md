@@ -52,6 +52,7 @@ I enjoy taking a problem from **idea → architecture → development → deploy
 🎓 **Innovation Ambassador — Ministry of Education**  
 ☁️ **AWS Cloud Club — Core Team Member**  
 🥈 **2nd Prize — Technical Paper Presentations**
+
 🚀 **Founder — Zhynor Technologies**  
 
 ---
