@@ -664,4 +664,4 @@ I'm particularly interested in environments where I can:
 *Software Developer • AI & Cloud Engineer • Product Builder*
 
 </div>
-```
+
