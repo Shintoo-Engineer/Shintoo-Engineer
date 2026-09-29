@@ -48,11 +48,11 @@ Product Development
 
 I enjoy taking a problem from **idea → architecture → development → deployment → improvement**.
 
-🚀 **Founder & CEO — Zhynor Technologies**  
 🎓 **B.E. Computer Science & Engineering — Madha Engineering College**  
 🎓 **Innovation Ambassador — Ministry of Education**  
 ☁️ **AWS Cloud Club — Core Team Member**  
-🥈 **2nd Prize — Technical Paper Presentation**
+🥈 **2nd Prize — Technical Paper Presentations**
+🚀 **Founder — Zhynor Technologies**  
 
 ---
 
@@ -417,7 +417,7 @@ An intelligent travel platform designed to provide personalized travel planning 
 
 # 🏢 Zhynor Technologies
 
-## Founder & CEO
+## Founder
 
 I founded **Zhynor Technologies** to build practical software products and digital solutions.
 
@@ -568,7 +568,7 @@ I work with cloud platforms, containers and deployment workflows to move applica
 
 **Madha Engineering College, Chennai**
 
-`CGPA: 8.69`
+`CGPA: 8.51`
 
 `Expected Graduation: 2028`
 
@@ -666,101 +666,5 @@ I'm particularly interested in environments where I can:
 </div>
 ```
 
-## Why this version is stronger
-
-Your previous README had **486 lines** of content. The information was good, but a recruiter would have to scroll through a lot of material before reaching your strongest evidence. :chatgpt-content-reference{index="1"}
-
-This version changes the strategy:
-
-### First screen
-
-```text
-S.S. Shintoo Shel Lal
-
-SOFTWARE ENGINEER
-AI & CLOUD ENGINEER
-FULL-STACK DEVELOPER
-
-Short professional statement
-
-↓
-Skills
-↓
-Featured Projects
-```
-
-A recruiter immediately sees **your target role + technical direction + evidence**.
-
-### Your projects become the evidence
-
-Instead of saying:
-
-> "I am a Software Developer."
-
-you immediately show:
-
-**Customer Support Assistant** → AI + RAG + backend + architecture  
-**PowerGridX** → full-stack + database + complex workflows  
-**University AI Assistant** → RAG + vector search + LLM  
-**Zhynor Calculator** → product engineering  
-**PDF Toolkit** → web engineering
-
-That is much more useful for a software engineering profile. Your existing material supports these project descriptions and technologies. :chatgpt-content-reference{index="2"} :chatgpt-content-reference{index="3"} :chatgpt-content-reference{index="4"}
-
-### The interactive part
-
-I specifically added expandable sections:
-
-```text
-🔍 Problem Solving        ▼
-🏗️ System Design          ▼
-💻 Development            ▼
-🧪 Testing & Debugging    ▼
-☁️ Deployment             ▼
-```
-
-A recruiter can expand only the parts they care about.
-
----
-
-## One more important change
-
-Your **GitHub profile bio** should also be changed.
-
-Use:
-
-> **Software Engineer | Full-Stack Developer | AI & Cloud Engineer | Founder @ Zhynor Technologies**
-
-Not:
-
-> CSE Student | Software Developer | Full-Stack Developer | AI/ML Builder | Custom software, websites, mobile apps, and business automation expert
-
-The second one is too long and reads like a service advertisement. Your target is **Software Engineering**, so your profile should communicate that immediately.
-
-### Also set the GitHub "About" section to:
-
-**Description**
-```text
-Software Engineer | Full-Stack Developer | AI & Cloud Engineer
-```
-
-**Website**
-```text
-https://zhynor.pages.dev/
-```
-
-**Topics**
-```text
-software-engineering
-software-development
-full-stack-development
-python
-react
-typescript
-artificial-intelligence
-rag
-cloud-computing
-aws
-fastapi
 ```
 
