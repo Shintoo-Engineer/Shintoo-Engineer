@@ -721,21 +721,3 @@ It is about:
 
 </p>
 ```
-
-### One important correction
-
-I intentionally **didn't put your phone number or home address in the GitHub README**. GitHub is public, so your professional contact should be your **email, LinkedIn, portfolio, and GitHub** rather than exposing a personal phone number.
-
-Also, your current GitHub profile screenshot shows the repository's **About** section as empty. After replacing the README, set that section to:
-
-**Description**
-```text
-Software Developer | AI & Cloud Engineer | Product Builder | Founder @ Zhynor Technologies
-```
-
-**Website**
-```text
-https://zhynor.pages.dev/
-```
-
-That combination + this README will give your profile a much more complete professional presentation.
